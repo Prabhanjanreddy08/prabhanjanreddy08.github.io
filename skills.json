@@ -1,0 +1,74 @@
+[
+    {
+        "name":"DataAnalytics",
+        "icon":"https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-analytics-market-research-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "SQL-DBMS",
+        "icon": "https://img.icons8.com/fluency/48/sql.png"
+    },
+    {
+        "name": "Machine learning",
+        "icon": "https://img.icons8.com/office/40/artificial-intelligence.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/46/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/pandas.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    },
+    {
+        "name": "Scikit-Learn",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "postman",
+        "icon": "https://img.icons8.com/dusk/40/postman-api.png"
+    },
+    {
+        "name": "PowerBi",
+        "icon": "https://img.icons8.com/dusk/48/power-bi.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/46/tableau-software.png"
+    },
+    {
+        "name": "MS-365",
+        "icon": "https://img.icons8.com/color/46/office-365.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    }
+]
